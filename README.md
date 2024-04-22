@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuankiet0913
-- 👀 I’m interested in weird funny game coding
+- 👀 I’m interested in your mom
 - 🌱 I’m currently learning Computer Science at Ho Chi Minh City University of Technology
 - 💞️ I’m looking to collaborate on whatever project help me to learn new things
 - 📫 Contact for work (if you trust me): tuankiet0913@gmail.com
