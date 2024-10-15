@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any Data Science and AI projects**
 
-- 💬 Ask me about **any thing, and I'll ask chatGPT**
+- 💬 Ask me about **anything, and I'll ask chatGPT**
 
 - 📫 How to reach me **kiet.truong12082004@hcmut.edu.vn**
 
