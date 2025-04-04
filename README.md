@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tuan Kiet</h1>
-<h3 align="center">A passionate data scientist from Vietnam</h3>
+<h3 align="center">A passionate data engineer from Vietnam</h3>
 
 - 🔭 I’m currently working on **Research and build effective route finding solutions on the HCM city map system**
-
-- 👯 I’m looking to collaborate on **any Data Science and AI projects**
-
+<!--
+- 👯 I’m looking to collaborate on **any Data  projects**
+-->
 - 💬 Ask me about **anything, and I'll ask chatGPT**
 
 - 📫 How to reach me **kiet.truong12082004@hcmut.edu.vn**
