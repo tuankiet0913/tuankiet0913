@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Kiet</h1>
 <h3 align="center">A passionate learner from Vietnam</h3>
 
-- 🔭 I’m currently working on **Research and build effective route finding solutions on the HCM city map system**
 <!--
 - 👯 I’m looking to collaborate on **any Data  projects**
 -->
