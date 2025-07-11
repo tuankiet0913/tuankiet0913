@@ -1,10 +1,7 @@
-[![Header](https://raw.githubusercontent.com/StanGirard/StanGirard/master/stangirard-logo.png "Header")](https://primates.dev/)
 
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
 My name is Tuan Kiet. I'm from Vietnam, living in Ho Chi Minh city.
-
-## &#x270d; Blog & Writing
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
