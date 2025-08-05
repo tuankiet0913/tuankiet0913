@@ -1,7 +1,7 @@
 
 # Hey guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
-My name is Tuan Kiet. I'm from Vietnam, living in Ho Chi Minh city.
+My name is Tuan Kiet. I'm from Vietnam, living in Ho Chi Minh City.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
